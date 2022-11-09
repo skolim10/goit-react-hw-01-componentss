@@ -1,0 +1,27 @@
+.transactionHistory {
+  margin: 0.5rem auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 0.5rem;
+}
+
+.theader {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.headerValues {
+  padding: 0.8rem 4rem;
+  background-color: #1cafc5;
+  color: #fff;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.values {
+  /* width: 33%; */
+  color: #7e859c;
+  font-size: 1.8rem;
+  text-align: center;
+  text-transform: capitalize;
+}
